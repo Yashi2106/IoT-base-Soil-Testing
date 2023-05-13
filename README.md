@@ -15,9 +15,10 @@ User Interface: To use the Streamlit app, simply run the app. The app will displ
 
 Here's the link of the user-inteface:https://adit2412-iot-based-crop-recommendation-system-valuesapp-k7mish.streamlit.app/
 
-image
 
-image
+![image](https://github.com/Yashi2106/IoT-base-Soil-Testing/assets/132142159/bfc983b8-3920-40cc-bf85-9ffae565099b)
+![image](https://github.com/Yashi2106/IoT-base-Soil-Testing/assets/132142159/ce664818-80f6-4e02-ad24-70eb9391034e)
+
 
 Here's the link of the project report: https://drive.google.com/file/d/1im9HmZkesOfYgfBBgRTtFJZ1d3mGw50b/view?usp=share_link
 
